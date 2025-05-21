@@ -6,6 +6,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/mtri-git/](https://github.com/mtri-git/)
 
 - 📫 How to reach me **vmtri20@gmail.com**
+  
+- 🌍 More about me: [https://vominhtri.vercel.app/](https://vominhtri.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
